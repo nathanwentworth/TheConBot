@@ -15,7 +15,7 @@ html {font-family: sans-serif;-ms-text-size-adjust: 100%;-webkit-text-size-adjus
 html,body {
 	color: #222;
 	font-size: 14px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	line-height: 1.375rem;
 	width: 100%;
 	height: 100%;
@@ -29,6 +29,7 @@ html,body {
 }
 
 header {
+	font-family: 'Montserrat', sans-serif;
 	background: #0080FF;
 	color: #fff;
 	padding: 2rem;
@@ -103,6 +104,7 @@ header ul li:last-child {
 }
 
 .banner {
+	font-family: 'Montserrat', sans-serif;
 	margin: 4rem 0;
 	text-align: center;
 }

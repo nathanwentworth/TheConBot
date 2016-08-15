@@ -141,6 +141,8 @@ ul {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+    margin: auto;
+    max-width: 1920px;
 }
 .projects a {
 	margin: auto;

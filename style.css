@@ -147,7 +147,7 @@ ul {
 	width: 50%;
 }
 .projects a img {
-	max-width: 100%;
+	width: 100%;
 }
 
 a:link, a:visited {color: #0080FF}

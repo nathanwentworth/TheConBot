@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Connor Botts | Game Designer and Programmer">
+	<!-- <link rel="apple-touch-icon" href=""> -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="/style.css">
+	<title>Connor Botts | Game Designer and Programmer</title>
+</head>
+<body>
+
+<div class="main-container">
+
+<!-- /// HEADER START /// -->
+<!-- you'll probably never have to touch this, unless you're adding/removing social media stuff -->
+<!-- if you wanna get rid of that text scambling thing, just remove the "onmousemove" and "onmouseleave", including the bits after in quotes -->
+
+	<header>
+		<div class="flex-left">
+			<a href="/" class="home-link"><h1>Connor Botts</h1></a>
+			<h3 id="subtitle" onmousemove="Scramble();" onmouseleave="TextReset();" ">A Collection of Game Design and Creative Programming</h3>
+		</div>
+		<div class="flex-right">
+			<!-- here's the social media links! -->
+			<div class="social-media">
+                <a href="https://github.com/theconbot"><img src="/img/social/GitHub-Mark-Light-64px.png"></a>
+                <a href="https://twitter.com/theconbot"><img src="/img/social/Twitter_Social_Icon_Circle_White.png"></a>
+                <a href="mailto:connor.botts@gmail.com"><img src="/img/social/At_sign.svg"></a>
+                <a href="https://www.linkedin.com/in/connor-botts-95a99a7a"><img src="/img/social/In-White-66px-TM.png"></a>
+			</div>
+			<!-- here's where the page links go, if you ever wanted more -->
+			<nav>
+				<ul>
+					<li><a href="/about/">About Me</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<!-- /// HEADER END /// -->
+
+	<!-- the page title goes in here, make sure it's an h1 with the class "banner" -->
+
+	<h1 class="banner">Drop_Block!</h1>
+
+	<!-- this is the main body of the project page -->
+
+	<div class="project">
+		<!-- an img with the class "featured" will make it wider than normal images, and give it extra padding on the bottom -->
+		<img class="featured" src="/img/Drop_Block_Banner-opt.jpg">
+		<!-- all normal text goes in p tags -->
+		<p>
+            Drop Block is a minimalist block stacking game where you stack as many blocks as you can in order to reach the objective. The game features three different game modes with over 30 levels and an endless stacking mode where you can compete with your friends for the high score! Drop_Block! was made in one month by only myself and is deployed on the <a href="https://play.google.com/store/apps/details?id=com.Connor_Botts.Drop_Block">Google Play</a> and <a href="https://itunes.apple.com/us/app/drop-block!/id1149103878?mt=8">App</a> stores.
+		</p>
+
+		<!-- normal images without the featured class are a bit more narrow, and fit with content better -->
+		<img src="/img/DB1.png">
+		<img src="/img/DB2.png">
+		<img src="/img/DB3.png">
+
+	</div>
+</div>
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
+<script type="text/javascript" src="/js/scripts.js"></script>
+</body>
+</html>

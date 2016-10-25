@@ -121,7 +121,7 @@ header ul li:last-child {
 	line-height: 170%;
 }
 .project img {
-	width: 100%;
+	width: auto;
 	display: block;
 	margin: 32px auto;
 	max-width: 840px;

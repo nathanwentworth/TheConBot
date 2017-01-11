@@ -105,8 +105,9 @@ header ul li:last-child {
 
 .banner {
 	font-family: 'Montserrat', sans-serif;
-	margin: 4rem 0;
+	margin: 3rem 0;
 	text-align: center;
+	line-height: 1em;
 }
 
 
@@ -173,19 +174,28 @@ hr {
 
 /* responsive rules */
 
-/* small screens */
-@media only screen and (max-width: 480px) {
-	h1 { font-size: 2rem; }
-	h2 { font-size: 1.625rem; }
-	h3 { font-size: 1.375rem; }
+/* normal to large screens */
+@media only screen and (min-width: 960px) {
+	h1 { font-size: 3rem; }
+	h2 { font-size: 2.25rem; }
+	h3 { font-size: 1.75rem; }
 	h4 { font-size: 1.125rem; }
+	.project img {
+		max-height: 95vh;
+	}
 }
+
+
+/* small screens */
 
 /* tablets and small screens */
 @media only screen and (max-width: 960px) {
 	h1 { font-size: 2.5rem; }
 	h2 { font-size: 2rem; }
-	h3 { font-size: 1.5rem; }
+	h3 {
+		font-size: 1.375rem;
+		line-height: 1.2em;
+	}
 	h4 { font-size: 1.125rem; }
 
 	.projects a {
@@ -209,17 +219,13 @@ hr {
 	.project p, .project ul {
 		line-height: 155%;
 	}
-
-}
-
-/* normal to large screens */
-@media only screen and (min-width: 960px) {
-	h1 { font-size: 3rem; }
-	h2 { font-size: 2.25rem; }
-	h3 { font-size: 1.75rem; }
-	h4 { font-size: 1.125rem; }
 	.project img {
-		max-height: 100vh;
+		max-width: 90%;
 	}
-}
+	.project img.featured {
+		max-width: 100%;
+		margin-bottom: 32px;
+	}
 
+
+}

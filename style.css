@@ -121,7 +121,7 @@ header ul li:last-child {
 	line-height: 170%;
 }
 .project img {
-	width: 100%;
+	width: auto;
 	display: block;
 	margin: 32px auto;
 	max-width: 840px;
@@ -217,6 +217,9 @@ hr {
 	h1 { font-size: 3rem; }
 	h2 { font-size: 2.25rem; }
 	h3 { font-size: 1.75rem; }
-	h4 { font-size: 1.125rem; }	
+	h4 { font-size: 1.125rem; }
+	.project img {
+		max-height: 100vh;
+	}
 }
 

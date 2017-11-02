@@ -4,7 +4,7 @@ title:  "Friender Bender"
 date:   2017-01-26 20:08:37 -0500
 categories: game
 image: /img/friender-bender/FB_Cover.png
-tags: featured game
+tags: game
 ---
 Friender Bender is a local-multiplayer sabotage driving game, where up to 4 players take turns controlling 1 car, avoiding obstacles and navigating 2 increasingly crazy courses.
 

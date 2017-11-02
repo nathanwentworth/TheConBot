@@ -20,8 +20,8 @@ You can download the game from [itch.io](https://wickedly.itch.io/friender-bende
 
 My contributions on this project included:
 
-* Assembly
-* Concept Design
+* Game Design
+* Level Design
 * Production
 * Programming (C#)
 

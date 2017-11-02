@@ -14,8 +14,8 @@ tags: game
 
 My contributions on this project included:
 
-* Assembly
-* Concept Design
+* Game Design
+* Level Design
 * Programming (C#)
 
 ![Outerworld Image 1]({{ site.github.url }}/img/outerworld-image/OWI_1.png)

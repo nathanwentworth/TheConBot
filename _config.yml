@@ -18,7 +18,7 @@ email: connor.botts@gmail.com
 description: A Collection of Game Design and Creative Programming
 short_desc: A Collection of Game Design and Creative Programming
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://connor.games" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: theconbot
 github_username:  theconbot
 

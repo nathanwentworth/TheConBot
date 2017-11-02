@@ -10,7 +10,7 @@ Suki's Soul Food is a point-and-click cooking game about running a food truck fo
 
 Make crazy dishes with weird names for your fuzzy friend customers, but keep an eye on the clock! Features procedurally generated recipes, a global high-score list, and hand-drawn art!
 
-<iframe frameborder="0" src="https://itch.io/embed/157302?linkback=true&amp;border_width=0&amp;bg_color=0080FF&amp;fg_color=eeeeee&amp;border_color=0080FF" width="550" height="165"></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/157302?linkback=true&amp;border_width=0&amp;bg_color=00A5E5&amp;fg_color=eeeeee&amp;border_color=0080FF" width="550" height="165"></iframe>
 
 My contributions on this project included:
 

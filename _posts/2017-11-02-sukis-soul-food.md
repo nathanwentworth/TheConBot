@@ -4,7 +4,7 @@ title:  "Suki's Soul Food"
 date:   2017-01-26 20:08:37 -0500
 categories: game
 image: /img/sukis-soul-food/Suki-Cover.png
-tags: game
+tags: featured game
 ---
 Suki's Soul Food is a point-and-click cooking game about running a food truck for cats! 
 

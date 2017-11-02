@@ -44,6 +44,11 @@
 
 }
 
+iframe{
+  display: block;
+  margin: auto;
+  max-width: 100%
+}
 
 .site-title {
   /*font-family: $header-font-family;*/

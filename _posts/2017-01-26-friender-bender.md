@@ -16,7 +16,7 @@ Friender Bender is a local-multiplayer sabotage driving game, where up to 4 play
 
 \- [Free Game Planet](https://www.freegameplanet.com/friender-bender-download-game/)
 
-You can download the game from [itch.io](https://wickedly.itch.io/friender-bender) and coming soon on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=816824713)!
+<iframe frameborder="2" src="https://itch.io/embed/97545?linkback=true&amp;border_width=0&amp;bg_color=00A5E5&amp;fg_color=eeeeee&amp;border_color=0080FF" width="550" height="165"></iframe>
 
 My contributions on this project included:
 

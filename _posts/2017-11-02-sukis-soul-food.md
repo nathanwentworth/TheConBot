@@ -12,7 +12,6 @@ Make crazy dishes with weird names for your fuzzy friend customers, but keep an 
 
 <iframe frameborder="2" src="https://itch.io/embed/157302?linkback=true&amp;border_width=0&amp;bg_color=00A5E5&amp;fg_color=eeeeee&amp;border_color=0080FF" width="550" height="165"></iframe>
 
-
 My contributions on this project included:
 
 * Game Design

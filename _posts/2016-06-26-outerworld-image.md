@@ -6,7 +6,7 @@ categories: game
 image: /img/outerworld-image/OWI_Banner-opt.jpg
 tags: game
 ---
-[Outerworld Image](https://wickedly.itch.io/outerworld-image) is a surreal, meditative photography game. Walk around a neon planet, taking photos at your leisure that can be saved and shared, while listening to some calming music and not thinking about the end of the world. Made by 5 students in a semester. 
+Outerworld Image is a surreal, meditative photography game. Walk around a neon planet, taking photos at your leisure that can be saved and shared, while listening to some calming music and not thinking about the end of the world. Made by 5 students in a semester. 
 
 "You know, to remind you of the good times when you were inside a weird, pink game world, and not in this overwhelming collapsible reality."
 

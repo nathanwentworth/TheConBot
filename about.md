@@ -18,4 +18,6 @@ Hey, I’m Connor Botts, thanks for stopping by! I’m a 20 year old game-design
 * Team Leadership/Management
 * Unity
 
-Here is my [resumé](https://docs.google.com/document/d/1lzulefUCQoR9vwUgWNZ_fwlflMMlHNuPZYAS7r5-KAo/edit?usp=sharing) and if you are interested in contacting me, you can do so via [email](mailto:{{ site.email }}) or [Twitter](https://twitter.com/{{ site.twitter_username }})!
+If you are interested in contacting me, you can do so via [email](mailto:{{ site.email }}) or [Twitter](https://twitter.com/{{ site.twitter_username }})!
+
+Thanks to [@nathanwentworth](https://twitter.com/nathanwentworth) for creating this website!
